@@ -15,8 +15,8 @@ namespace Q1
         static void Main(string[] args)
         {
             Console.WriteLine(GetNumLength(85258));
-            //Console.ReadLine(); //for seeing thr result so the consol won't shot down
+            //Console.ReadLine(); //Keep console window open to view the result
         }
-         
+
     }
 }

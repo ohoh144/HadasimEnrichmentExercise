@@ -1,0 +1,7 @@
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\bin\Debug\Q2.exe.config
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\bin\Debug\Q2.exe
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\bin\Debug\Q2.pdb
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\obj\Debug\Q2.exe
+C:\git\Hadasim\ExerciseCSharp\PartB\Q2\obj\Debug\Q2.pdb
